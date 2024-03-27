@@ -56,6 +56,7 @@ Logging is more focused on capturing events and messages for retrospective analy
 * **CertManager** : Automatically provision and manage TLS certificates in Kubernetes
 * **Trivy** : Check OS packages and software dependencies in use (SBOM), Known vulnerabilities (CVEs), IaC issues and misconfigurations, Sensitive information and secrets, Software licenses (targeted on Container Image, Filesystem, Git Repository (remote), Virtual Machine Image, Kubernetes, AWS)
 * **Hashicorp Vault** : A tool for secrets management, encryption as a service, and privileged access management
+* **keycloak** : an open-source identity and access management solution (SSO, Social Login, LDAP, Role-based AC)
 
 # References
 * [google msa demo][gmsa-demo]
